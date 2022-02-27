@@ -9,10 +9,7 @@ reponisve layout challenge 1
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-## Overview
+  - [Author](#author)
 
 ### The challenge
 
@@ -53,3 +50,7 @@ i want to focus on flexbox , grid and responsive design.
 - frontendmentor - [@aemrobe](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Aemro112](https://www.twitter.com/yourusername)
 - freecodecamp - [@aemro11]
+
+
+
+
