@@ -42,7 +42,7 @@ screenshots/responsive layout challenge 1
 
 ### What I learned
 
-this tutorial help me to understand about how you make websites responsive. before this challange I had done the social proof project in the frontend mentor and It wasn't responsive. after I take this first challange It had change my mindset on the responsiveness of website. websites are responsive by nature the problem is ourself who are making them not to be responsive. i start to fix the problem I had on the project by understaning the importance of using percentage value over other fixed size values and when to use the min-height property in this challenge.
+this tutorial help me to understand about how you make websites responsive. before this challange I had done the social proof project in the frontend mentor and It wasn't responsive. after I take this first challange It had change my mindset on the responsiveness of website. websites are responsive by nature the problem is ourself who are making them not to be responsive. i start to fix the problem I had on the project by understaning the importance of using percentage value over other fixed size values and when to use the min-height property .
 
 ### Continued development
 
