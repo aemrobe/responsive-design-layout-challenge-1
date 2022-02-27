@@ -24,7 +24,7 @@ screenshots/responsive layout challenge 1
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://aemrobe.github.io/responsive-design-layout-challenge-1/)
 
 ## My process
 
